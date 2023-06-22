@@ -65,5 +65,5 @@ Swap faces of two people in one image.
 
 ## Other notes:
 
-1. If there's any problem, please join my Discord group: [here](https://discord.gg/BZaUQUnf)
+1. If there's any problem, please join my Discord group: [DiscordServer](https://discord.gg/BZaUQUnf)
 2. Images used are for illustration purposes only
