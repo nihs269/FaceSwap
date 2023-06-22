@@ -30,37 +30,37 @@ Swap faces of two people in one image.
  
 2. Use **`/new_id`** command to register your identity name and feature. The registered name can be any alphabets or numbers up to 8 characters long. If everything goes well, the bot will tell you that the save was successful.
 <div align="left">
-  <img src="image/save_id.jpg"/>
+  <img src="image/save_id.jpg" width="640"/>
 </div>
 
 3. Use **`/swap`** to replace the face with the registered identity name on target image.
 <div align="left">
-  <img src="image/swap.jpg"/>
+  <img src="image/swap.jpg" width="640"/>
 </div>
 
 4. Complete!
 <div align="left">
-  <img src="image/result_swap.jpg"/>
+  <img src="image/result_swap.jpg" width="640"/>
 </div>
 
 5. Besides, it is possible to change many faces at the same time by use **`/multi_swap`**. Each registered id is separated by `+`. Eg: `me+her+him`. Note that the more ids, the longer the waiting time and the number of ids must match the number of people in the image.
 <div align="left">
-  <img src="image/multi_swap.jpg"/>
+  <img src="image/multi_swap.jpg" width="640"/>
 </div>
 
 6. Complete!
 <div align="left">
-  <img src="image/result_multi_swap.jpg"/>
+  <img src="image/result_multi_swap.jpg" width="640"/>
 </div>
 
 7. Use **`/two_faces_one_image`** to swap faces of two people in one image. 
 <div align="left">
-  <img src="image/2f1i.jpg"/>
+  <img src="image/2f1i.jpg" width="640"/>
 </div>
 
 8. Complete!
 <div align="left">
-  <img src="image/result_2f1i.jpg"/>
+  <img src="image/result_2f1i.jpg" width="640"/>
 </div>
 
 ## Other notes:
