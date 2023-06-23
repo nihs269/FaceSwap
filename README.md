@@ -66,4 +66,6 @@ Swap faces of two people in one image.
 ## Other notes:
 
 1. If there's any problem, please join my Discord group: [DiscordServer](https://discord.gg/BZaUQUnf)
-2. Images used are for illustration purposes only
+2. Images used are for illustration purposes only.
+3. Bot is only made for entertainment and learning purposes, not encouraging actions using bots for bad purposes.
+
