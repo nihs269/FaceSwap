@@ -15,10 +15,7 @@ Delete specific identity name.
 ### /del_all_id
 Delete all registered names.
 
-### /swap **`upload-image`** **`ID`**
-Replace the face with the registered identity name on target image.
-
-### /multi_swap **`upload-image`** **`IDs`**
+### /swap **`upload-image`** **`IDs`**
 Replace the face with the registered identity names on target image (Eg: IDs = me+sister)
 
 ### /two_faces_one_image **`upload-image`**
@@ -26,7 +23,7 @@ Swap faces of two people in one image.
 
 ## Step-by-step guide:
 
-1. Invite the PlasticSurgeon bot to the chat room by this link: <https://discord.com/api/oauth2/authorize?client_id=1106477771481432154&permissions=8&scope=bot>.
+1. Invite the Photoshoper bot to the chat room by this link: <https://discord.com/api/oauth2/authorize?client_id=1117016806767472680&permissions=8&scope=bot>.
  
 2. Use **`/new_id`** command to register your identity name and feature. The registered name can be any alphabets or numbers up to 8 characters long. If everything goes well, the bot will tell you that the save was successful.
 <div align="left">
